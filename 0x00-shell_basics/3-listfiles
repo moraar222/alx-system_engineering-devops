@@ -1,2 +1,2 @@
-root@2b8b6fad9e23:/# ls -l                                                                                     
+#!/bin/bash ls -l                                                                                     
 -rwxr--r--    1 root root    0 Mar  2 13:41 0-current_working_directory
