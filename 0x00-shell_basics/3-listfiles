@@ -1,5 +1,2 @@
 #!/bin/bash ls -l                                                                                     
--rwxr-xr-x 1 hp 197121  18 Mar  8 16:59 0-current_working_directory*
--rwxr-xr-x 1 hp 197121  17 Mar  8 16:59 1-listit*
--rw-r--r-- 1 hp 197121 191 Mar  8 17:27 3-listfiles
--rw-r--r-- 1 hp 197121  16 Mar  8 16:59 README.md
+-rwxr-xr-x 1 hp 197121  18 Mar  8 16:59 0-current_working_directory* -rwxr-xr-x 1 hp 197121  17 Mar  8 16:59 1-listit* -rw-r--r-- 1 hp 197121 191 Mar  8 17:27 3-listfiles -rw-r--r-- 1 hp 197121  16 Mar  8 16:59 README.md
