@@ -1,2 +1,2 @@
-#!/bin/bash $ cd alx-system_engineering-devops/0x00-shell_basics/ls -l
-ls -l
+#!/bin/bash git clonehttps://github.com/moraar222/alx-system_engineering-devops.git 
+cd alx-system_engineering-devops/0x00-shell_basics/  && ls -l
